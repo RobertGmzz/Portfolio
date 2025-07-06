@@ -1,3 +1,9 @@
 @import "tailwindcss";
 
-/* aqui pueden ir los reset de estilos generales */
+/* aqui pueden ir los reset de estilos generales (chequear)*/
+body{
+    font-family: 'Montserrat';
+    background-color: #050505;
+    display: flex;
+    justify-content: center;
+}
