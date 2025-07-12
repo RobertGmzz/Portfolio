@@ -1,8 +1,8 @@
 export function Header(){
     return (
-        <header id="#top" className="flex justify-between items-center p-3 w-full xl:w-[1120px] mx-auto">
-            <img className="size-12 rounded-full" 
-            src="../public/icono.png" 
+        <header id="#top" className="flex justify-between items-center w-full p-2">
+            <img className="size-12 rounded-full"
+            src="../public/icono.png"
             alt="robert photo"/>
 
             <nav className="flex text-white gap-x-8">
